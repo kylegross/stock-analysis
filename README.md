@@ -18,10 +18,10 @@
 ###### As seen in the above figures, the refactored analysis code ran in 61790.63 seconds and 61846.1 seconds for the years 2017 and 2018, respectively. In comparison, the original script ran in 0.6171875 seconds and 0.609375 seconds for the years 2017 and 2018, respectively (Figures 2 and 2.1). The execution times of the refactored code is evidently much more expedient than the original code, which draws the conclusion that the refactored code more efficient.
 
 ###### Figure 2
-![VBA_Challenge_Original_Script_2017](Resources/VBA_Challenge_Original_Script_2017.png)
+![VBA_Challenge_Original_Script_2017](Resources/VBA_Challenge_Original_Script_2017.PNG)
 
 ###### Figure 2.1
-![VBA_Challenge_Original_Script_2018](Resources/VBA_Challenge_Original_Script_2018)
+![VBA_Challenge_Original_Script_2018](Resources/VBA_Challenge_Original_Script_2018.PNG)
 
 
 #### **Summary**
