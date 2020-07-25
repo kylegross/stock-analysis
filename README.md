@@ -21,7 +21,7 @@
 ![VBA_Challenge_Original_Script_2017](Resources/VBA_Challenge_Original_Script_2017.png)
 
 ###### Figure 2.1
-![VBA_Challenge_Original_Script_2018](Resources/VBA_Challenge_Original_Script_2018.png)
+![VBA_Challenge_Original_Script_2018](Resources/VBA_Challenge_Original_Script_2018)
 
 
 #### **Summary**
